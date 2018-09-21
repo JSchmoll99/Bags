@@ -3,4 +3,4 @@ project(BagProject)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(BagProject main.cpp)
+add_executable(BagProject main.cpp Bag.h)
